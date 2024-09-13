@@ -1,4 +1,4 @@
-# <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdxaGRqa2s0bWlzcGlsMWRiOWhwZng2c2U1NDlsd21kZmw1cndycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.webp" width="100"/> Bienvediod@ al GitHub de FC-FRAN 
+# <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdxaGRqa2s0bWlzcGlsMWRiOWhwZng2c2U1NDlsd21kZmw1cndycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.webp" width="100"/> Bienvenid@ al GitHub de FC-FRAN 
 
 ![banner de fc-fran](github-header-image.png)
 
